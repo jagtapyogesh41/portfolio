@@ -2,6 +2,7 @@ import eight from '../assets/svg/projects/kimaye.png'
 import seven from '../assets/svg/projects/anthoropology.png'
 import six from '../assets/svg/projects/erp.png'
 import one from '../assets/svg/projects/payment.jpg'
+import two from '../assets/svg/projects/images.jpg'
 
 
 export const projectsData = [
@@ -11,17 +12,17 @@ export const projectsData = [
         projectDesc: 'This a ERP software that is used in Dyeing Mill.',
         tags: ['Java','SpringBoot','Mysql','AWS'],
         code: '',
-        demo: '',
+        // demo: '',
         image: six
     },
     {
         id: 1,
         projectName: 'Sati Shree',
-        projectDesc: '',
+        projectDesc: 'An e-commerce website that sale saree.',
         tags: ['Java','SpringBoot','Mysql','AWS'],
         code: '',
-        demo: '',
-        image: six
+        // demo: '',
+        image: two
     },
     {
         id: 3,
@@ -29,7 +30,7 @@ export const projectsData = [
         projectDesc: 'Payment Wallet Application API made with use of Spring-boot and java for backend and use Java-Script for frontend functionality',
         tags: ['Java','SpringBoot','Mysql','JavaScript','HTML','CSS'],
         code: 'https://github.com/jagtapyogesh41/PaymentWalletApplicationAPI',
-        demo: '',
+        // demo: '',
         image: one
     },
     {

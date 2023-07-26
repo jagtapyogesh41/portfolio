@@ -229,7 +229,7 @@ export const skillsImage = (skill) => {
             return wolframalpha;
         case 'canva':
             return canva;
-        case 'Postman':
+        case 'postman':
             return postman;
         case 'Ubuntu':
             return ubuntu;

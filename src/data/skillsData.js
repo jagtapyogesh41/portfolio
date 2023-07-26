@@ -7,7 +7,7 @@ export const skillsData = [
     'Docker',
     'MySQL',
     'AWS',
-    'Postman'
+    'postman'
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
