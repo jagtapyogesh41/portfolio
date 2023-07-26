@@ -7,5 +7,5 @@ export const headerData = {
     // image:"C:/Users/glory/OneDrive/Desktop/portfolio/developer-portfolio-master/src/assets/png/Yogesh.png",
     imagebw: 'https://drive.google.com/file/d/12NO9U5FSK3yPgKfxdEcZB1Zg8uwqIgTt/view?usp=sharing',
     // : 'https://i.ibb.co/Cw2Xp90/abu-said-bw.jpg',
-    resumePdf: 'https://drive.google.com/file/d/17th9vb1WLYx1gna0cyJmf66HRuKeN75M/view?usp=drive_link'
+    resumePdf: 'https://drive.google.com/file/d/14gmNMCqwYiZQ6qFbxxpUWiOxpiAvtFe6/view?usp=sharing'
 }
